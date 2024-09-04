@@ -1,5 +1,2 @@
 # APTOS-Diabetic-Retinopathy-Detection
-
-[APTOS 2019 Blindness Detection _ Kaggle.pdf](https://github.com/user-attachments/files/16875194/APTOS.2019.Blindness.Detection._.Kaggle.pdf)
-
-<a href="APTOS 2019 Blindness Detection _ Kaggle.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<img width="2382" alt="APTOS 2019 Blindness Detection _ Kaggle_1" src="https://github.com/user-attachments/assets/ae9bd13c-ba81-48f8-a4e2-bec86d173f3b">
